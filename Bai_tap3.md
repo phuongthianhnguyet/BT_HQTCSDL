@@ -34,7 +34,7 @@ HÌNH THỨC LÀM BÀI:
 8. nhớ commit để save nội dung file bai_tap3.md
 
 # BÀI LÀM
-## 1. Sửa bảng DKMH và thêm bảng điểm.
+# 1. Sửa bảng DKMH và thêm bảng điểm.
 - Bảng DKMH sửa và thêm cột "id_dk" và cho làm khoá chính.
   
 <img width="677" alt="0" src="https://github.com/user-attachments/assets/46736b72-6a61-4e80-9ff7-6264bfbd0b74" />
@@ -51,7 +51,7 @@ HÌNH THỨC LÀM BÀI:
   
   <img width="562" alt="3" src="https://github.com/user-attachments/assets/6222055b-22c7-46c2-acc0-7103987ccca7" />
 
-  ## 2. Nhập dữ liệu demo cho các bảng (nhập có kiểm soát từ tính năng Edit trê UI của SSMS).
+  # 2. Nhập dữ liệu demo cho các bảng (nhập có kiểm soát từ tính năng Edit trê UI của SSMS).
  
   # Nhập dữ liệu cho bảng.
 
@@ -107,7 +107,7 @@ HÌNH THỨC LÀM BÀI:
      
   ![image](https://github.com/user-attachments/assets/bafb67e8-7b14-4a5b-abc2-261e3b429e9b)
 
-  ## 3. Lệnh truy vấn.
+  # 3. Lệnh truy vấn.
   # Lệnh truy vấn tính điểm thành phần của 1 sinh viên đang học tại 1 lớp học phần và trả về kết quả.
 
   <img width="641" alt="12" src="https://github.com/user-attachments/assets/00d6202b-ef1a-491b-ab04-e76768c162f2" />
@@ -121,4 +121,6 @@ HÌNH THỨC LÀM BÀI:
 
   <img width="701" alt="hình" src="https://github.com/user-attachments/assets/094af585-2c97-498a-b8c3-bd38aea87e64" />
 
+  Kéo thả sao cho đúngg
+  
  # Thầy ơi, bài dài quá, em xin phép THE END 👀
